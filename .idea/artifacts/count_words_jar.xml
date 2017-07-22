@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="count words:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/count_words_jar</output-path>
+    <root id="archive" name="count words.jar">
+      <element id="module-output" name="count words" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-cli-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/hadoop-core-1.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
