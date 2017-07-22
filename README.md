@@ -1,2 +1,1 @@
-This is simple hadoop project for single node
-to count words in large files
+This is simple hadoop project for single nodeto count words in large files
